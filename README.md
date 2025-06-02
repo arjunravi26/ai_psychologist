@@ -9,9 +9,6 @@ It uses **Hugging Face Transformers**, **PEFT (LoRA)**, and **Streamlit** for th
 
 ---
 
-
----
-
 ##  Features
 
 - Simulates a supportive psychologist
